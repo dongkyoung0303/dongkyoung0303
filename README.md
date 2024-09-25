@@ -4,7 +4,9 @@ Hi, I'm Dongkyoung. My name carries the meaning of "strong longing for something
 
 I truly enjoy software engineering, and I'm always striving to find and apply better solutions through constant study and reflection.
 I have a deep interest in automation through shell scripting and server development using Java and Spring Boot. 
+
 Currently, I work as a framework engineer at TmaxSoft.
+
 Feel free to reach out if you'd like to collaborate with me!
 
 <!--
