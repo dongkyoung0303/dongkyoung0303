@@ -1,4 +1,4 @@
-## Hi, I'm dongkyoung. 👋
+## Hi, there. 👋
 
 Hi, I'm Dongkyoung. My name carries the meaning of "strong longing for something," which is why my username is YearnBeyond. 💖✨
 
@@ -11,7 +11,7 @@ I also frequently automate tasks needed for my work through shell scripting. �
 Feel free to reach out if you'd like to collaborate with me!
 
 
-💪 Skills
+## 💪 Skills
 Platforms & Languages
 
 <!--
