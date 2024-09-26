@@ -1,12 +1,13 @@
 ## Hi, there. 👋
 
-Hi, I'm Dongkyoung. My name carries the meaning of "strong longing for something," which is why my username is YearnBeyond. 💖✨
+Hi, I'm Dongkyoung. 
+My name reflects the idea of 'yearning beyond,' so I'm always chasing my dreams. 
+I think that's what software engineering means to me." 💖✨
 
-I have experience 3 years of working as a framework engineer at TmaxSoft. 
+- I have experience 3 years of working as a framework engineer at TmaxSoft. 
 
-I truly enjoy software engineering, and I'm always striving to find and apply better solutions through constant study and reflection.
-At present, I have been interested in creating server development with Java and Spring Boot. 
-I also frequently automate tasks needed for my work through shell scripting. 🚀
+At present, I have been interested in creating server development with **Java** and **Spring Boot**. 
+I also frequently automate tasks needed for my work through **shell scripting**. 🚀
 
 Feel free to reach out if you'd like to collaborate with me!
 
